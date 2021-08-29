@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumReprGenerator", "EnumReprGenerator\EnumReprGenerator.csproj", "{B1D4F2C1-C997-4DBF-9658-E3236E1EA294}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumReprGenerator.Test", "EnumReprGenerator.Test\EnumReprGenerator.Test.csproj", "{8D0CF58B-B114-4280-9FDF-7C53CFE9F4F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnumReprGenerator.Sample", "EnumReprGenerator.Sample\EnumReprGenerator.Sample.csproj", "{F952AD45-A94F-4016-99BD-4095C67D07BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B1D4F2C1-C997-4DBF-9658-E3236E1EA294}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1D4F2C1-C997-4DBF-9658-E3236E1EA294}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1D4F2C1-C997-4DBF-9658-E3236E1EA294}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1D4F2C1-C997-4DBF-9658-E3236E1EA294}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D0CF58B-B114-4280-9FDF-7C53CFE9F4F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0CF58B-B114-4280-9FDF-7C53CFE9F4F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D0CF58B-B114-4280-9FDF-7C53CFE9F4F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0CF58B-B114-4280-9FDF-7C53CFE9F4F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F952AD45-A94F-4016-99BD-4095C67D07BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F952AD45-A94F-4016-99BD-4095C67D07BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F952AD45-A94F-4016-99BD-4095C67D07BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F952AD45-A94F-4016-99BD-4095C67D07BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
